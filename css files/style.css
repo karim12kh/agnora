@@ -1,0 +1,24 @@
+body{
+    font-family: 'segeo ui light';
+    background-color: #24353F;
+}
+.log-in , .main , .navbar-expand{
+       box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+h1{
+    color: #17A2B8;
+}
+input{
+   color: white;
+    background-color: #24353F;
+   
+}
+
+input:focus-within{
+ outline: 1px solid blue;
+
+
+}
+span:hover{
+    text-decoration: underline;
+}
